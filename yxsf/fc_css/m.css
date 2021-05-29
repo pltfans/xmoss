@@ -1062,11 +1062,11 @@ input,button,select,textarea {
 .rank-num i {
   display: block;
   padding: 0 5px;
-  background: #090;
+  background: rgba(40,160,0,0.95);
   color: #fff;
   font-style: normal;
   border-radius: 0 10px 0 25px;
-  opacity: 0.88;
+  opacity: 0.95;
 }
 
 
