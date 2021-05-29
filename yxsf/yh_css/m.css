@@ -1042,3 +1042,32 @@ input,button,select,textarea {
     overflow-y: auto;
     max-height: 300px;
 }
+
+
+.item-rank {
+	position: relative;
+}
+.rank-num {
+  position: absolute;
+  overflow: hidden;
+  padding: 0;
+  color: #BFBFDE;
+  font-size: 12px;
+  cursor: pointer;
+  z-index: 10;
+  top: 0;
+  right: 0;
+  height: 20px;
+  line-height: 20px;
+}
+.rank-num i {
+  display: block;
+  padding: 0 5px;
+  background: #E93A5E;
+  color: #fff;
+  font-style: normal;
+  border-radius: 0 10px 0 25px;
+  opacity: 0.88;
+}
+
+

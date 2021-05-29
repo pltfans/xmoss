@@ -1458,3 +1458,13 @@ a:hover {
 }
 
 
+.rank_num {
+	float:  right;
+	font-size: 18px;
+	color: #FF44AA;
+	font-family: 黑体;
+	font-style:  italic;
+	padding: 2px 10px;
+	margin: 4px 30px 0 0;
+}
+
